@@ -1,3 +1,5 @@
+![dojo](./dojo-mark-full-dark.svg)
+
 ### Dojo is many things. It's a framework, a toolchain, and a community. It's a new way to build onchain applications that are provably fair and transparent.
 
 It offers a straightforward way to define complex applications using [Cairo](https://www.cairo-lang.org/) and provides a comprehensive toolset for building, deploying, and managing your ambitious projects.
